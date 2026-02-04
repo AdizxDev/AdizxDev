@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adi Saputra</h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
 Full-Stack Developer • Mobile Developer • Cloud Engineer • Network Engineer • Machine Learning Enthusiast
-</h3>
+</h3> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-8A2BE2?style=for-the-badge"/>
