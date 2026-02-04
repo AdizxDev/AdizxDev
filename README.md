@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adi Saputra</h1>
 
-<!-- <h3 align="center">
-Full-Stack Developer • Mobile Developer • Cloud Engineer • Network Engineer • Machine Learning Enthusiast
-</h3> -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Mobile-Developer-555555?style=for-the-badge"/>
@@ -72,10 +68,12 @@ I enjoy building end-to-end systems — from frontend & backend to deployment an
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,aws" />
 </p>
 
 - Linux Server (Ubuntu)  
+- AWS (EC2, basic cloud services & deployment)  
+- Proxmox VE (Virtualization & VM Management)  
 - VPS Deployment  
 - Web Hosting & Domain Management  
 - Git & GitHub Workflow  
