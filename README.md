@@ -54,18 +54,6 @@ Git & GitHub • Web Hosting • Domain Management
 - 🔐 **AES Cryptography Web App** – Security implementation  
 - 💍 **Digital Invitation Websites** – Modern & responsive UI  
 
----
-
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdizxDev&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdizxDev&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 - 🌍 Website: https://adidev.my.id  
