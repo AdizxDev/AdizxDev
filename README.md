@@ -1,13 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Adi%20Saputra&fontSize=45&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Cloud%20%7C%20Network%20%7C%20Machine%20Learning&descAlignY=55"/>
-</p>
+<h1 align="center">Hi 👋, I'm Adi Saputra</h1>
+
+<h3 align="center">
+Full-Stack Developer • Mobile Developer • Cloud Engineer • Network Engineer • Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mobile%20Developer-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile-Developer-555555?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Engineer-0db7ed?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FFA500?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-Engineer-0db7ed?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine-Learning-FFA500?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -22,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 I am a passionate and versatile technologist with experience in **web development**, **mobile application development**, **computer networking**, **cloud infrastructure**, and **machine learning**.  
-I enjoy building end-to-end solutions — from application development to deployment and intelligent automation.
+I enjoy building end-to-end systems — from frontend & backend to deployment and intelligent automation.
 
 - 💻 Full-Stack Web Developer  
 - 📱 Mobile Developer (Flutter)  
@@ -53,11 +55,10 @@ I enjoy building end-to-end solutions — from application development to deploy
 - Data preprocessing & feature engineering  
 - Model training & evaluation  
 - Supervised & unsupervised learning  
-- Model experimentation & validation  
 
-**Tools used:**
-- 🧪 Google Colab (model training & experimentation)
-- 📓 Jupyter Notebook (data analysis & prototyping)
+**Tools for ML Training & Experimentation:**
+- 🧪 Google Colab  
+- 📓 Jupyter Notebook  
 
 ---
 
@@ -101,10 +102,6 @@ I enjoy building end-to-end solutions — from application development to deploy
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
 
 <p align="center">
 ✨ <b>Always learning, building, and evolving with technology.</b> ✨
