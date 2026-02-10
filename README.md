@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Mobile-Developer-555555?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud-Engineer-0db7ed?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine-Learning-FFA500?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -36,8 +35,9 @@ I enjoy building end-to-end systems — from frontend & backend to deployment an
 
 ### 💻 Programming & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,react,nextjs,flutter" />
 </p>
+
 
 ### 🗄️ Database
 <p>
